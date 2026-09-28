@@ -1,0 +1,21 @@
+village_name,population,predicted_risk,water_quality_note,recommendation
+Village_10,3873,Medium,Water quality parameters within acceptable range.,Risk detected; conduct manual water quality inspection.
+Village_4,9026,Medium,Water quality parameters within acceptable range.,Risk detected; conduct manual water quality inspection.
+Village_7,2385,Medium,Water quality parameters within acceptable range.,Improve sanitation infrastructure; monitor closely over next 2 weeks.
+Village_19,5097,Medium,Water quality parameters within acceptable range.,Risk detected; conduct manual water quality inspection.
+Village_8,4743,Medium,Turbidity above acceptable threshold (5 NTU).,Improve sanitation infrastructure; monitor closely over next 2 weeks.
+Village_13,4643,Medium,Water quality parameters within acceptable range.,Improve sanitation infrastructure; monitor closely over next 2 weeks.
+Village_14,8789,Medium,Water quality parameters within acceptable range.,Improve sanitation infrastructure; monitor closely over next 2 weeks.
+Village_9,8355,Medium,Chlorine level below WHO-recommended minimum (0.2 mg/L).,Improve sanitation infrastructure; monitor closely over next 2 weeks.
+Village_18,961,Low,Water quality parameters within acceptable range.,No immediate action needed; continue routine monitoring.
+Village_3,1575,Low,Water quality parameters within acceptable range.,No immediate action needed; continue routine monitoring.
+Village_5,3952,Low,Water quality parameters within acceptable range.,No immediate action needed; continue routine monitoring.
+Village_11,1821,Low,Water quality parameters within acceptable range.,No immediate action needed; continue routine monitoring.
+Village_1,10470,High,Water quality parameters within acceptable range.,Risk detected; conduct manual water quality inspection.
+Village_2,11548,High,Water quality parameters within acceptable range.,Risk detected; conduct manual water quality inspection.
+Village_6,10947,High,Water quality parameters within acceptable range.,Risk detected; conduct manual water quality inspection.
+Village_12,11605,High,Water quality parameters within acceptable range.,Risk detected; conduct manual water quality inspection.
+Village_15,10492,High,Chlorine level below WHO-recommended minimum (0.2 mg/L).,URGENT: Chlorinate water supply immediately; distribute water purification tablets.
+Village_16,7673,High,Turbidity above acceptable threshold (5 NTU).,URGENT: Investigate turbidity source (runoff/sediment); recommend boiling water before use.
+Village_17,6475,High,Water quality parameters within acceptable range.,Risk detected; conduct manual water quality inspection.
+Village_20,10973,High,Water quality parameters within acceptable range.,Risk detected; conduct manual water quality inspection.
